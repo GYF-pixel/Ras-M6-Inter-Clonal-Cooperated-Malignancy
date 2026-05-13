@@ -4,6 +4,11 @@ Tumor heterogeneity, a hallmark of cancer, frequently leads to treatment failure
 
 Tumor Heterogeneity; Ras; Toll Signaling; Tricellular Junction; Hemocyte
 
+The data analysis includes:
+The bulk RNA-seq on both late-stage RasV12 benign tumors and RasV12//M6-/- malignancies；
+The scRNA-seq on scRNA-seq on WT eye-antennal discs, RasV12 benign tumors, and early-stage RasV12//M6-/- tumors.
+(Isolation of GFP-positive and GFP-negative epithelial cells and hemocytes for the investigation of tri-clonal crosstalk.)
+
 For more information, please read our paper: https://doi.org/10.1038/s44318-025-00547-5
 
 The sequencing data can be downloaded freely, and codes developed for this study are provided.
