@@ -10,6 +10,8 @@ The scRNA-seq on scRNA-seq on WT eye-antennal discs, RasV12 benign tumors, and e
 (Isolation of GFP-positive and GFP-negative epithelial cells and hemocytes for the investigation of tri-clonal crosstalk.)
 
 For more information, please read our paper: https://doi.org/10.1038/s44318-025-00547-5
+        
+        
 
 The sequencing data can be downloaded freely, and codes developed for this study are provided.
 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1064441
